@@ -1,6 +1,7 @@
 # Sales & Profit Margin Analysis Dashboard
 # PowerBi Dashboard
-Project Overview: **To build a Sales & Profit Margin Analysis dashboard for AtliQ Hardware that analyzes Revennue, sales, profit margins, and customer/market contributions using data from a MySQL database — enabling sales leadership to track key KPIs, identify growth opportunities, and make data-driven decisions.**
+**Project Overview:** To build a Sales & Profit Margin Analysis dashboard for AtliQ Hardware that analyzes Revennue, sales, profit margins, and customer/market contributions using data from a MySQL database — enabling sales leadership to track key KPIs, identify growth opportunities, and make data-driven decisions.
+
 **Dataset:** Financial dataset
 
 🔧 **𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:**
@@ -19,6 +20,6 @@ Project Overview: **To build a Sales & Profit Margin Analysis dashboard for Atli
 
 
 🧠 **𝐖𝐡𝐚𝐭 𝐈 𝐥𝐞𝐚𝐫𝐧𝐞𝐝:**
-• **𝐓𝐨𝐨𝐥𝐭𝐢𝐩𝐬** are your savior! They let you pack more context into visuals without crowding the report.
-• **𝐃𝐫𝐢𝐥𝐥 𝐔𝐩/𝐃𝐨𝐰𝐧** makes it easy to explore different data levels within the same visual.
-• **𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐅𝐢𝐥𝐭𝐞𝐫𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐜𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐟𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠** quickly highlights problem areas, such as underperforming markets or customers.
+1) **𝐓𝐨𝐨𝐥𝐭𝐢𝐩𝐬** are your savior! They let you pack more context into visuals without crowding the report.
+2) **𝐃𝐫𝐢𝐥𝐥 𝐔𝐩/𝐃𝐨𝐰𝐧** makes it easy to explore different data levels within the same visual.
+3) **𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐅𝐢𝐥𝐭𝐞𝐫𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐜𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐟𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠** quickly highlights problem areas, such as underperforming markets or customers.
