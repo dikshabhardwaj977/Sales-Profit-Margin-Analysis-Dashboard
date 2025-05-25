@@ -1,7 +1,7 @@
 # Sales & Profit Margin Analysis Dashboard
 # PowerBi Dashboard
-# Project Overview: To build a Sales & Profit Margin Analysis dashboard for AtliQ Hardware that analyzes Revennue, sales, profit margins, and customer/market contributions using data from a MySQL database — enabling sales leadership to track key KPIs, identify growth opportunities, and make data-driven decisions.
-Dataset: Financial dataset
+Project Overview: **To build a Sales & Profit Margin Analysis dashboard for AtliQ Hardware that analyzes Revennue, sales, profit margins, and customer/market contributions using data from a MySQL database — enabling sales leadership to track key KPIs, identify growth opportunities, and make data-driven decisions.**
+**Dataset:** Financial dataset
 
 🔧 **𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:**
 1) **𝐃𝐚𝐭𝐚 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧:** Pulled and transformed data from a MySQL database.
